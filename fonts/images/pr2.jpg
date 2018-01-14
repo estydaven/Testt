@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+    	<meta charset="utf-8">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Универсальный триммер Micro Touch Max</title>
+        <link rel="stylesheet" href="css/uikit.almost-flat.min.css" />
+        <link rel="stylesheet" href="css/components/sticky.almost-flat.min.css" />
+
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+
+        <script src="../../../https@ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="js/uikit.min.js"></script>
+        <script src="js/components/sticky.min.js"></script>
+        <script src="js/jquery.h5validate.js"></script>
+
+        <link href="../../../https@fonts.googleapis.com/css@family=PT+Sans_3A400,400i,700,700i" rel="stylesheet">
+
+    </head>
+    <body>
+
+
+
+<section id="block1">
+<div class="cover-bg">
+	<div class="container">
+		<div class="uk-grid">
+				<div class="uk-width-medium-5-10 uk-grid-small">
+					<h1>Micro Touch Max</h1>
+
+					<h3>Универсальный триммер для ухода за вашей бородой, усами, бакенбардами</h3>
+					<ul>
+						<li>Экономит Ваше время</li>
+						<li>Удаляет волосы в любых местах</li>
+						<li>Не вызывает раздражения</li>
+						<li>Удобен в использовании</li>
+					</ul>
+					<img class="prod-img" src="images/prod.png" alt="micro touch max">
+
+
+				</div>
+
+				<div class="uk-width-medium-5-10 uk-grid-small">
+
+						<div class="price">
+							<div>Успейте заказать со скидкой!</div>
+							<span class="old-price">478 грн.</span>
+							<span class="new-price">239 грн.</span>
+						</div>
+
+					 	<form class="form-standart form-top" method="post" action="form.php">
+					 		<p>Оставьте заявку<br> и наш менеджер свяжется с вами</p>
+						        <input type="name" class="inpt" id="inpt-name" required type="text" name="name_form" placeholder="Имя">
+						        <input type="phone" class="inpt" id="inpt-phone" required type="tel" name="phone_form" placeholder="Телефон">
+						        <div class="number">
+		                 	 		<label for="numbers" class="amount">Кол-во:</label>
+				                    <span class="minus"><button type="button" class="btn-amount">
+									 <i class="uk-icon-minus" aria-hidden="true"></i> </button>
+									</span>
+			                   		 <input class="inp inp-num" required type="text" name="chai" value="1"/>
+				                   	 <span class="plus">
+										   <button  class="btn-amount">
+										  	 <i class="uk-icon-plus" aria-hidden="true"></i>
+											</button>
+										</span>
+		                		 </div>
+
+		                		 <script src="../../../e-timer.ru/js/etimer.js"></script>
+									<script type="text/javascript">
+										jQuery(document).ready(function() {
+											jQuery(".eTimer").eTimer({
+												etType: 1, etDate: "29.09.2016.0.0", etTitleText: "До конца акции:", etTitleSize: 18, etShowSign: 1, etSep: "", etFontFamily: "Verdana", etTextColor: "#e74c3c", etPaddingTB: 0, etPaddingLR: 0, etBackground: "transparent", etBorderSize: 0, etBorderRadius: 0, etBorderColor: "white", etShadow: " 0px 0px 0px 0px #333333", etLastUnit: 4, etNumberFontFamily: 'PT Sans', etNumberSize: 31, etNumberColor: "white", etNumberPaddingTB: 0, etNumberPaddingLR: 5, etNumberBackground: "#e74c3c", etNumberBorderSize: 0, etNumberBorderRadius: 4, etNumberBorderColor: "white", etNumberShadow: " 0px 0px 0px 0px rgba(0, 0, 0, 0.5)"
+											});
+										});
+									</script>
+									<div class="eTimer"></div>
+						        <button type="submit" name="ok" class="btn-zakaz">Заказать со скидкой</button>
+						</form>
+				</div>
+			</div>
+
+			<div class="uk-grid uk-text-center">
+					<div class="uk-width-1-1">
+					</div>
+			</div>
+		</div>
+</div>
+</section>
+
+
+<section id="block2">
+	<div class="container">
+		<div class="uk-grid">
+			<div class="uk-width-1-1 uk-text-center">
+				<div class="heading">
+					<h2>Преимущества micro touch max</h2>
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="uk-grid uk-text-center">
+			<div class="uk-width-medium-1-3 block-img-txt">
+				<img src="images/pr1.jpg" alt="micro touch max">
+				<h3>Эффективно и быстро</h3>
+				<p>всего пару движений и готово, без пенки, лосьона и прочего!</p>
+			</div>
+			<div class="uk-width-medium-1-3 block-img-txt">
+				<img src="images/pr2.jpg" alt="micro touch max">
+				<h3>БЕЗОПАСНОСТЬ ПРЕВЫШЕ ВСЕГО</h3>
+				<p>в отличие от бритв и ножниц, триммер удаляет волоски мгновенно и не оставляет порезов</p>
+			</div>
+			<div class="uk-width-medium-1-3 block-img-txt">
+				<img src="images/pr3.jpg" alt="micro touch max">
+				<h3>КОМПАКТНОСТЬ</h3>
+				<p>где бы Вы ни были, триммер не займет много места в поклаже, а для работы достаточно лишь батареек!</p>
+			</div>
+		</div>
+
+		<div class="uk-grid uk-text-center">
+			<div class="uk-width-medium-1-3 block-img-txt">
+				<img src="images/pr4.jpg" alt="micro touch max">
+				<h3>ГОРАЗДО БОЛЬШЕ ФУНКЦИЙ</h3>
+				<p>удаление волос в носу, ушах, бритье бакенбард, шеи, создание линии волос</p>
+			</div>
+			<div class="uk-width-medium-1-3 block-img-txt">
+				<img src="images/pr5.jpg" alt="micro touch max">
+				<h3>ПОДСВЕТКА</h3>
+				<p>свет специального светодиода позволяет разглядеть даже мельчайшие волоски</p>
+			</div>
+			<div class="uk-width-medium-1-3 block-img-txt">
+				<img src="images/pr6.jpg" alt="micro touch max">
+				<h3>УДОБСТВО И ТОЧНОСТЬ</h3>
+				<p>создайте свой, уникальный стайл бороды и усов!</p>
+			</div>
+		</div>
+
+		<div class="uk-grid uk-text-center">
+					<div class="uk-width-1-1">
+					</div>
+			</div>
+
+	</div>
+</section>
+
+
+ <section id="block3">
+	<div class="container">
+		<div class="uk-grid">
+			<div class="uk-width-1-1 uk-text-center">
+				<div class="heading">
+					<h2>Безупречный уход за Вашими волосами!</h2>
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="uk-grid">
+			<div class="uk-width-medium-1-2">
+				<div class="uk-vertical-align vert-align-block">
+					<div class="uk-vertical-align-middle">
+						<p>
+							Выглядеть презентабельно – значит быть желанным  везде и всюду! Ведь и вправду говорят, что выходить в свет нужно в таком виде, в котором ты готов встретить любовь своей жизни. Ухоженный мужчина привлекает внимание дам, а аккуратные борода,  усы и бакенбарды только придают ему импозантности. «Уход за волосами – это дело профессионалов, и только» - так думают все…<br>     …пока не попробуют триммер Micro Touch Max!
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="uk-width-medium-1-2">
+				<video src="../../../www.youtube.com/watch@v=wbf2Cmm21jg" controls="controls">                                   
+			</div>
+		</div>
+
+		<div class="uk-grid">
+			<div class="uk-width-medium-1-2">
+				<img src="images/prod1.jpg" alt="micro touch max">
+			</div>
+			<div class="uk-width-medium-1-2">
+				<div class="uk-vertical-align vert-align-block">
+					<div class="uk-vertical-align-middle">
+						<p>
+							Все мы разные, и стиль у всех тоже разный – кому-то по душе шкиперская бородка, кому-то «эспаньолка», кто-то растит густую бороду, а кто-то явно неравнодушен к изысканным бакенбардам. Любая прическа и даже самый необычный стиль откроются Вам вместе с триммером Micro Touch Max! Более того, уход за волосками в таких местах, как уши, брови и нос, для Микро Тач Макс – сущий пустяк. Если раньше такая процедура была болезненной и долгой, то с триммером это перестанет быть проблемой!
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<button class="btn-zakaz btn-zakaz-content" data-uk-modal="{target:'#my-modal'}">Заказать со скидкой</button>
+
+		<div class="uk-grid uk-text-center">
+			<div class="uk-width-1-1">
+			</div>
+		</div>
+	</div>
+</section>
+
+
+ <section id="block4">
+ 	<div class="cover">
+		<div class="container">
+			<div class="uk-grid">
+				<div class="uk-width-1-1 uk-text-center">
+						<h2> <span>MICRO TOUCH MAX</span> -  лучший подарок</h2>
+						<h3>
+						Если вы ищете что подарить мужчине, то триммер Микро Тач Макс явно удачный выбор, ведь каждый хочет выглядеть как можно лучше! Будьте уверены, что данный прибор найдет свое применение в руках мужчины и займет свое место среди других бритвенных принадлежностей.
+						</h3>
+
+						<button class="btn-zakaz btn-zakaz-content" data-uk-modal="{target:'#my-modal'}">Сделать подарок</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="block5">
+	<div class="container">
+		<div class="uk-grid">
+			<div class="uk-width-1-1">
+				<div class="heading">
+					<h2>Комплектация</h2>
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="uk-grid">
+			<div class="uk-width-medium-6-10">
+				<ul>
+					<li>триммер</li>
+					<li>насадка 2/4 мм</li>
+					<li>насадка 6 мм</li>
+					<li>щетка для очистки</li>
+					<li>инструкция по эксплуатации (на англ. языке, с иллюстрациями)</li>
+					<li>батарейка ААА -1 шт</li>
+				</ul>
+			</div>
+
+			<div class="uk-width-medium-4-10">
+				<img src="images/komplekt.jpg" alt="micro touch max">
+			</div>
+		</div>
+		<div class="uk-grid">
+			<div class="uk-width-1-1">
+				<p class="prim">Примечание: данный прибор <span>НЕ РЕКОМЕНДУЕТСЯ</span>  хранить в помещении с повышенной влажностью (ванна), <br>а также использовать на влажной растительности.</p>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
+
+
+ <section id="block5-1">
+	<div class="container">
+		<div class="uk-grid">
+			<div class="uk-width-1-1">
+				<div class="heading">
+					<h2>Сравнение <span style="color: #2ECC71;">MICRO TOUCH MAX</span> и X-TRIM</h2>
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="uk-grid">
+			<div class="uk-width-medium-8-10 uk-push-1-10">
+				<div class="uk-overflow-container">
+					<table class="uk-table uk-table-hover table-compare">
+					    <thead>
+					        <tr>
+					            <th>Характеристика</th>
+					            <th class="uk-text-center">MICRO TOUCH MAX</th>
+					            <th class="uk-text-center">X-TRIM</th>
+					        </tr>
+					    </thead>
+					    <tbody>
+					    	 <tr class="uk-table-middle">
+					            <td>Беспроводная</td>
+					            <td class="uk-text-center"><span class="pl">+</span></td>
+					            <td class="uk-text-center"><span class="pl">+</span></td>
+					        </tr>
+
+					        <tr class="uk-table-middle">
+					            <td>Батарейка в комплекте</td>
+					            <td class="uk-text-center"><span class="pl">+</span></td>
+					            <td class="uk-text-center"><span class="mn">-</span></td>
+					        </tr>
+
+					         <tr class="uk-table-middle">
+					            <td>Подсветка</td>
+					            <td class="uk-text-center"><span class="pl">+</span></td>
+					            <td class="uk-text-center"><span class="pl">+</span></td>
+					        </tr>
+
+					 	    <tr class="uk-table-middle">
+					            <td>Уход за бородой</td>
+					            <td class="uk-text-center"><span class="pl">+</span></td>
+					            <td class="uk-text-center"><span class="pl">+</span></td>
+					        </tr>
+
+					        <tr class="uk-table-middle">
+					            <td>Уход за растительностью носа, ушей, рук, и др. частей тела</td>
+					            <td class="uk-text-center"><span class="pl">+</span></td>
+					            <td class="uk-text-center"><span class="mn">-</span></td>
+					        </tr>
+
+					        <tr class="uk-table-middle">
+					            <td>Материал ножей</td>
+					            <td class="uk-text-center">высококачественная нержавеющая сталь</td>
+					            <td class="uk-text-center">углеродистая сталь</td>
+					        </tr>
+					    </tbody>
+					</table>
+				</div>
+
+				<p class="adv-text">
+					Таким образом, бритва MICRO TOUCH MAX является более универсальной по сравнению с X-TRIM, так как она может применяться как для ухода за бородой, так и за остальными частями тела. К тому же, MICRO TOUCH MAX комплектуется более высококачествеными ножами из нержавеющей стали, что позволяет применять бритву довольно продолжительное время, а так же такие ножи не подвержены коррозии и ржавению, в отличие от ножей X-TRIM.
+				</p>
+				<p style="color: #2ECC71; font-weight: bold;">
+			 	 	 Покупая MICRO TOUCH MAX вы делаете правильный выбор!
+				</p>
+			</div>
+
+
+				</div>
+			</div>
+
+		<div class="uk-grid uk-text-center">
+					<div class="uk-width-1-1">
+					</div>
+
+			</div>
+
+
+</section>
+
+
+ <section id="steps">
+	<div class="container">
+		<div class="uk-grid">
+			<div class="uk-width-1-1">
+				<div class="heading">
+					<h2>Как получить MICRO TOUCH MAX?</h2>
+					<div class="line"></div>
+				</div>
+			</div>
+		</div>
+			<div class="uk-grid">
+				<div class="uk-width-large-1-4 uk-width-medium-1-4 uk-text-center">
+					<div class="step">
+						<img src="images/delivery/ico-big-1.png" alt="ico">
+					</div>
+					<p>Вы оставляете заявку</p>
+				</div>
+				<div class="uk-width-large-1-4 uk-width-medium-1-4 uk-text-center">
+					<div class="step">
+						<img src="images/delivery/ico-big-2.png" alt="ico">
+					</div>
+					<p>Наш менеджер связывается с вами</p>
+				</div>
+				<div class="uk-width-large-1-4 uk-width-medium-1-4 uk-text-center">
+					<div class="step">
+						<img src="images/delivery/ico-big-3.png" alt="ico">
+					</div>
+					<p>Мы отправляем Вам посылку удобным для Вас способом</p>
+				</div>
+				<div class="uk-width-large-1-4 uk-width-medium-1-4 uk-text-center">
+					<div class="step">
+						<img src="images/delivery/ico-big-4.png" alt="ico">
+					</div>
+					<p>Вы получаете товар и оплачиваете его</p>
+				</div>
+			</div>
+
+	</div>
+</section>
+
+
+ <section id="block6" class="delivery">
+  <div class="cover">
+	<div class="container">
+			<div class="uk-grid">
+				<div class="uk-width-large-1-3 uk-width-medium-1-3 border">
+					<h3>ОПЛАТА</h3>
+					<ul class="delivery-a">
+						<li>Наличными при получении заказа</li>
+						<li>Банковской картой</li>
+						<li>Приват 24</li>
+					</ul>
+					<h4>Или любым для вас удобным способом</h4>
+				</div>
+
+				<div class="uk-width-large-1-3 uk-width-medium-1-3 border">
+					<h3>ДОСТАВКА</h3>
+					<ul class="delivery-b">
+						<li><span>Новая Почта</span> <br> 1-2 дня, 25-32 грн</li>
+					</ul>
+					<h4>Или любым для вас удобным способом</h4>
+				</div>
+
+				<div class="uk-width-large-1-3 uk-width-medium-1-3 delivery-c">
+					<h3>ВОПРОСЫ</h3>
+					<p>
+						С радостью ответим на все ваши вопросы и примем заказ по телефону
+					</p>
+					<p>
+						Пн-Пт: с 09:00 до 20:00 <br>
+						Сб-Вс: с 10:00 до 20:00
+					</p>
+					<p>
+						<i class="uk-icon-phone"></i> (067) 620 07 57
+					</p>
+				</div>
+			</div>
+	</div>
+	</div>
+</section>
+
+<section id="bottom">
+ <div class="cover">
+	<div class="container">
+		<div class="uk-grid">
+			<div class="uk-width-large-1-2 uk-width-medium-1-2 uk-grid-small bottom-left">
+				<h2>Успейте заказать <br> MICRO TOUCH MAX <br> со скидкой</h2>
+
+				<div class="price">
+					<span class="old-price">478 грн.</span>
+					<span class="new-price">239 грн.</span>
+				</div>
+
+				<img style="max-width: 300px; display: block; margin: 20px auto;" src="images/prod.png" alt="MICRO TOUCH MAX">
+
+			</div>
+			<div class="uk-width-large-1-2 uk-width-medium-1-2 uk-grid-small">
+				<form class="form-standart bottom-form" method="post" action="form.php">
+					 		<p>Оставьте заявку и наш менеджер свяжется с вами</p>
+						        <input type="name" class="inpt" id="inpt-name" required type="text" name="name_form" placeholder="Имя">
+						        <input type="phone" class="inpt" id="inpt-phone" required type="tel" name="phone_form" placeholder="Телефон">
+						        <div class="number">
+		                 	 		<label for="numbers" class="amount">Кол-во:</label>
+				                    <span class="minus"><button type="button" class="btn-amount">
+									 <i class="uk-icon-minus" aria-hidden="true"></i> </button>
+									</span>
+			                   		 <input class="inp inp-num" required type="text" name="chai" value="1"/>
+				                   	 <span class="plus">
+										   <button type="submit" class="btn-amount" name="ok">
+										  	 <i class="uk-icon-plus" aria-hidden="true"></i>
+											</button>
+										</span>
+		                		 </div>
+
+		                		 <script src="../../../e-timer.ru/js/etimer.js"></script>
+									<script type="text/javascript">
+										jQuery(document).ready(function() {
+											jQuery(".eTimer").eTimer({
+												etType: 1, etDate: "29.09.2016.0.0", etTitleText: "До конца акции:", etTitleSize: 18, etShowSign: 1, etSep: "", etFontFamily: "Verdana", etTextColor: "red", etPaddingTB: 0, etPaddingLR: 0, etBackground: "transparent", etBorderSize: 0, etBorderRadius: 0, etBorderColor: "white", etShadow: " 0px 0px 0px 0px #333333", etLastUnit: 4, etNumberFontFamily: 'PT Sans', etNumberSize: 31, etNumberColor: "white", etNumberPaddingTB: 0, etNumberPaddingLR: 5, etNumberBackground: "red", etNumberBorderSize: 0, etNumberBorderRadius: 4, etNumberBorderColor: "white", etNumberShadow: " 0px 0px 0px 0px rgba(0, 0, 0, 0.5)"
+											});
+										});
+									</script>
+									<div class="eTimer"></div>
+						         <button type="submit" name="ok" class="btn-zakaz">Заказать со скидкой</button>
+						</form>
+
+					<!-- 1 + 1 = 3 -->
+
+						<!--<div class="special">
+							<p>Действует акция 1 + 1 = 3</p>
+							<p>При заказе 2-х упаковок, 3-я в подарок</p>
+						</div>-->
+
+					<!-- 1 + 1 = 3 -->
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
+
+<footer class="footer">
+	<div class="container">
+		<div class="uk-grid">
+			<div class="uk-width-large-1-3 uk-width-medium-1-3">
+				2017 © Все права защищены
+			</div>
+			<div class="uk-width-large-1-3 uk-width-medium-1-3">
+				MICRO TOUCH MAX
+			</div>
+			<div class="uk-width-large-1-3 uk-width-medium-1-3">
+				<i class="uk-icon-phone"></i> (067) 620 07 57
+			</div>
+		</div>
+	</div>
+</footer>
+
+<div id="mob-menu" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar">
+        <ul class="uk-nav uk-nav-offcanvas mob-menu" data-uk-nav>
+        	<li><a href="#block1">Главная</a></li>
+			<li><a href="#block2">Описание</a></li>
+			<li><a href="#block5">Применение</a></li>
+			<li><a href="#bottom">Заказать</a></li>
+        </ul>
+         <div class="phone-hidden"><i class="uk-icon-phone"></i> (067) 620 07 57</div>
+    </div>
+</div>
+
+
+<div id="my-modal" class="uk-modal">
+    <div class="uk-modal-dialog">
+        <a class="uk-modal-close uk-close"></a>
+        <h2>MICRO TOUCH MAX</h2>
+        <div class="price">
+					<span class="old-price">478 грн.</span>
+					<span class="new-price">239 грн.</span>
+				</div>
+		<form class="form-standart bottom-form" method="post" action="form.php">
+					 			<p>Успейте закзать со скидкой!</p>
+						        <input type="name" class="inpt" id="inpt-name" required type="text" name="name_form" placeholder="Имя">
+						        <input type="phone" class="inpt" id="inpt-phone" required type="tel" name="phone_form" placeholder="Телефон">
+						        <div class="number">
+		                 	 		<label for="numbers" class="amount">Кол-во:</label>
+				                    <span class="minus"><button type="button" class="btn-amount">
+									 <i class="uk-icon-minus" aria-hidden="true"></i> </button>
+									</span>
+			                   		 <input class="inp inp-num" required type="text" name="chai" value="1"/>
+				                   	 <span class="plus">
+										   <button type="submit" class="btn-amount" name="ok">
+										  	 <i class="uk-icon-plus" aria-hidden="true"></i>
+											</button>
+										</span>
+		                		 </div>
+
+		                		 <script src="../../../e-timer.ru/js/etimer.js"></script>
+									<script type="text/javascript">
+										jQuery(document).ready(function() {
+											jQuery(".eTimer").eTimer({
+												etType: 1, etDate: "29.09.2016.0.0", etTitleText: "До конца акции:", etTitleSize: 18, etShowSign: 1, etSep: "", etFontFamily: "Verdana", etTextColor: "red", etPaddingTB: 0, etPaddingLR: 0, etBackground: "transparent", etBorderSize: 0, etBorderRadius: 0, etBorderColor: "white", etShadow: " 0px 0px 0px 0px #333333", etLastUnit: 4, etNumberFontFamily: 'PT Sans', etNumberSize: 31, etNumberColor: "white", etNumberPaddingTB: 0, etNumberPaddingLR: 5, etNumberBackground: "red", etNumberBorderSize: 0, etNumberBorderRadius: 4, etNumberBorderColor: "white", etNumberShadow: " 0px 0px 0px 0px rgba(0, 0, 0, 0.5)"
+											});
+										});
+									</script>
+									<div class="eTimer"></div>
+						         <button type="submit" name="ok" class="btn-zakaz">Заказать со скидкой</button>
+						</form>
+    </div>
+</div>
+
+    <script>
+        $(document).ready(function() {
+            $('.minus').click(function () {
+                var $input = $(this).parent().find('input');
+                var count = parseInt($input.val()) - 1;
+                count = count < 1 ? 1 : count;
+                $input.val(count);
+                $input.change();
+                return false;
+            });
+            $('.plus').click(function () {
+                var $input = $(this).parent().find('input');
+                $input.val(parseInt($input.val()) + 1);
+                $input.change();
+                return false;
+            });
+        });
+     </script>
+
+      <script>
+			$(document).ready(function(){
+			$(".menu").on("click","a", function (event) {
+				event.preventDefault();
+				var id  = $(this).attr('href'),
+				top = $(id).offset().top;
+				$('body,html').animate({scrollTop: top}, 1500);
+				});
+			});
+		</script>
+
+		<script>
+			$(document).ready(function(){
+			$(".mob-menu").on("click","a", function (event) {
+				event.preventDefault();
+				var id  = $(this).attr('href'),
+				top = $(id).offset().top;
+				$('body,html').animate({scrollTop: top}, 1500);
+				});
+			});
+		</script>
+
+		 <script>
+	        $(document).ready(function() {
+			  $('form').h5Validate({
+			    errorClass: 'error'
+			  });
+			});
+		</script>
+
+		<style>
+			.error {
+			  background-color: red;
+			}
+		</style>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','../../../https@connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1461867387209484'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="../../../https@www.facebook.com/tr@id=1461867387209484&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+    </body>
+</html>
